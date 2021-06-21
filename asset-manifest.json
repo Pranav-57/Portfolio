@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.69e41c98.chunk.css",
+    "main.js": "/Portfolio/static/js/main.fdc27d03.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.fdc27d03.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.edb9ab2a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.edb9ab2a.js.map",
+    "static/css/2.630bd190.chunk.css": "/Portfolio/static/css/2.630bd190.chunk.css",
+    "static/js/2.64e60584.chunk.js": "/Portfolio/static/js/2.64e60584.chunk.js",
+    "static/js/2.64e60584.chunk.js.map": "/Portfolio/static/js/2.64e60584.chunk.js.map",
+    "static/js/3.6bb13c90.chunk.js": "/Portfolio/static/js/3.6bb13c90.chunk.js",
+    "static/js/3.6bb13c90.chunk.js.map": "/Portfolio/static/js/3.6bb13c90.chunk.js.map",
+    "static/css/4.6e7cb5a4.chunk.css": "/Portfolio/static/css/4.6e7cb5a4.chunk.css",
+    "static/js/4.8df1ec8d.chunk.js": "/Portfolio/static/js/4.8df1ec8d.chunk.js",
+    "static/js/4.8df1ec8d.chunk.js.map": "/Portfolio/static/js/4.8df1ec8d.chunk.js.map",
+    "static/js/5.51d48076.chunk.js": "/Portfolio/static/js/5.51d48076.chunk.js",
+    "static/js/5.51d48076.chunk.js.map": "/Portfolio/static/js/5.51d48076.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.630bd190.chunk.css.map": "/Portfolio/static/css/2.630bd190.chunk.css.map",
+    "static/css/4.6e7cb5a4.chunk.css.map": "/Portfolio/static/css/4.6e7cb5a4.chunk.css.map",
+    "static/css/main.69e41c98.chunk.css.map": "/Portfolio/static/css/main.69e41c98.chunk.css.map",
+    "static/js/3.6bb13c90.chunk.js.LICENSE.txt": "/Portfolio/static/js/3.6bb13c90.chunk.js.LICENSE.txt",
+    "static/media/covid.2acbf867.PNG": "/Portfolio/static/media/covid.2acbf867.PNG",
+    "static/media/instagram.04acf57c.PNG": "/Portfolio/static/media/instagram.04acf57c.PNG",
+    "static/media/pranav.393ab478.png": "/Portfolio/static/media/pranav.393ab478.png",
+    "static/media/resume.8b96434c.pdf": "/Portfolio/static/media/resume.8b96434c.pdf",
+    "static/media/udemy.e6cd59ed.PNG": "/Portfolio/static/media/udemy.e6cd59ed.PNG",
+    "static/media/weather.b11514be.PNG": "/Portfolio/static/media/weather.b11514be.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edb9ab2a.js",
+    "static/js/3.6bb13c90.chunk.js",
+    "static/css/main.69e41c98.chunk.css",
+    "static/js/main.fdc27d03.chunk.js"
+  ]
+}
