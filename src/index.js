@@ -1,17 +1,22 @@
-import React from 'react';
+import React, { Suspense, useState } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
+import HashLoader from "react-spinners/HashLoader";
+
+const App = React.lazy(() => import('./App'));
+const loading = true;
+const color = "purple";
 
 ReactDOM.render(
-  <React.StrictMode>
+  <Suspense fallback={ <div className="preloader">
+    <HashLoader color={color} loading={loading} size={50} />
+  </div> }
+  >
     <App />
-  </React.StrictMode>,
+  </Suspense>,
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+// reportWebVitals();
